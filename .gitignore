@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+
+# 忽略build目录
+build/
